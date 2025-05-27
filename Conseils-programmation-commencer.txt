@@ -1,0 +1,11 @@
+Bonjour, vous voulez commencer dans la programmation, vous ne savez pas par quoi commencer, je fais vous 
+dire une liste de languages de programmation a apprendre dans l'ordre:
+
+On commence avec Python. C'est le language de programmation le plus facile et le plus pratique pour commencer.
+
+On continue avec HTML/CSS . Ces deux languages de programmation je trouve que c'est mieux de les apprendre en 
+deuxieme apres Python.
+
+Pui apprenez JavaScript. Il est bien pour continuer.
+
+Voila, c'était quelques conseils pour commencer la programmation.
